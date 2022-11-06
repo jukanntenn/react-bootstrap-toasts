@@ -216,5 +216,5 @@ toasts.light(toastOptions: ToastOptions<ToastPropsOmitBg>): ToastIdType;
 
 ## TODO
 
-- [ ] Improing documentation.
+- [ ] Improving documentation.
 - [ ] Smoother animation of toast transition.
