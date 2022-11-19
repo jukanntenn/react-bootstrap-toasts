@@ -4,7 +4,7 @@
 
 ## Live demo
 
-building...
+https://jukanntenn.github.io/react-bootstrap-toasts/
 
 ## Installation
 
