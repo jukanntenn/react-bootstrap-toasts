@@ -129,6 +129,18 @@ import { ToastsProvider as BootstrapToastsProvider } from 'react-bootstrap-toast
 </BootstrapToastsProvider>;
 ```
 
+## Limit number of toasts
+
+The default number of toasts displayed is infinite. You can set `limit` to control maximum number of toasts displayed on screen. If number of toasts exceeds this value, oldest toast would be removed.
+
+```tsx
+import { ToastsProvider as BootstrapToastsProvider } from 'react-bootstrap-toasts';
+
+<BootstrapToastsProvider limit={3}>
+  <App />
+</BootstrapToastsProvider>;
+```
+
 ## Hide Toast
 
 The `toasts.show` method returns an id of the created toast which can be used to hide the toast manually via `toasts.hide` method:
