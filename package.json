@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap-toasts",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Dynamically create react-bootstrap toasts via a simple api.",
   "keywords": [
     "bootstrap",
