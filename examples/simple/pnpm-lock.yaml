@@ -7,7 +7,7 @@ specifiers:
   bootstrap: ^5.2.2
   react: ^18.2.0
   react-bootstrap: ^2.5.0
-  react-bootstrap-toasts: ^0.1.0
+  react-bootstrap-toasts: ^0.2.0
   react-dom: ^18.2.0
   sass: ^1.56.1
   typescript: ^4.6.4
@@ -17,7 +17,7 @@ dependencies:
   bootstrap: 5.2.2
   react: 18.2.0
   react-bootstrap: 2.5.0_rj7ozvcq3uehdlnj3cbwzbi5ce
-  react-bootstrap-toasts: 0.1.0_@types+react@18.0.21
+  react-bootstrap-toasts: 0.2.0_@types+react@18.0.21
   react-dom: 18.2.0_react@18.2.0
   sass: 1.56.1
 
@@ -956,8 +956,8 @@ packages:
       react-is: 16.13.1
     dev: false
 
-  /react-bootstrap-toasts/0.1.0_@types+react@18.0.21:
-    resolution: {integrity: sha512-7aBZt+IdzJq/2a26CHYPIG+lSYfvQDs2tqFo35zAu2bdJHteW7lMl1mZIxtMNHsxQx5tcZtGDE/M6RsxzYNKOQ==}
+  /react-bootstrap-toasts/0.2.0_@types+react@18.0.21:
+    resolution: {integrity: sha512-pBUTMraH0HhmyaAV3x+otnABs1yWZ79EUNesfuKChREphXkXXy6aucgkD6at6vbGg0nZVTtoziCQXkGju0cvHg==}
     dependencies:
       bootstrap: 5.2.2
       react: 18.2.0
